@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  shooting
-//
-//  Created by 洞井僚太 on 2018/09/11.
-//  Copyright © 2018年 洞井僚太. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
