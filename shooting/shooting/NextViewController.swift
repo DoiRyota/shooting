@@ -1,11 +1,3 @@
-//
-//  NextViewController.swift
-//  shooting
-//
-//  Created by 洞井僚太 on 2018/10/30.
-//  Copyright © 2018 洞井僚太. All rights reserved.
-//
-
 import UIKit
 
 class NextViewController: UIViewController {
