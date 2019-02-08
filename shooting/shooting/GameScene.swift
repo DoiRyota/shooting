@@ -1,11 +1,3 @@
-//
-//  GameScene.swift
-//  shooting
-//
-//  Created by 洞井僚太 on 2018/09/09.
-//  Copyright © 2018年 洞井僚太. All rights reserved.
-// パワーアップアイテム(バリア、ファンネル)
-
 import SpriteKit
 import GameplayKit
 import CoreMotion
